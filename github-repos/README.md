@@ -4,6 +4,6 @@ On this project i'm using React useContext, useReducer to create and transfer pr
 
 To make this run type:
 
-### npm 
+### npm install
 
 Thank for reading!
